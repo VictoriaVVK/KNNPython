@@ -1,0 +1,11 @@
+doors,fuel,engine_size,weight,car_type
+2,gasoline,small,light,sport
+4,diesel,large,heavy,family
+5,electric,medium,light,city
+2,gasoline,small,light,sport
+4,gasoline,medium,medium,family
+3,gasoline,small,light,city
+5,diesel,large,heavy,family
+2,gasoline,small,light,sport
+4,diesel,medium,heavy,family
+5,gasoline,small,light,city
